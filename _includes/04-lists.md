@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- more sun
+- more forest
+- more travel
+  - everywhere!
