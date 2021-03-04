@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Images of sun](https://www.nasa.gov/sites/default/files/706439main_20121113_m6triptych_0.jpg)
